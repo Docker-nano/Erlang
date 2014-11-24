@@ -3,7 +3,8 @@ Nano Erlang
 
 [![Build status][Build image]][Build]
 
-This is the [Docker Nano](https://github.com/Docker-nano) image for Erlang v17.3.
+This is the [Docker Nano](https://github.com/Docker-nano) image for [Erlang](http://www.erlang.org) v17.3 with SSL
+support.
 
 * Docker Hub image: [`nano/erlang`][Docker Hub repo]
 * Size: ~41MB
